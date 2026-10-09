@@ -43,8 +43,5 @@ next-env.d.ts
 # 배포본 zip
 /dist
 
-# 배포한 사람의 DB 연결 정보 (설치 화면에서 생성)
-/public/ohome.config.json
-
 # 개발 도구가 만드는 임시 파일
 .claude-launch-check
